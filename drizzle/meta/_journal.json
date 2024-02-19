@@ -15,6 +15,20 @@
       "when": 1708301602026,
       "tag": "0001_amusing_galactus",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1708301727206,
+      "tag": "0002_secret_fallen_one",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1708301808809,
+      "tag": "0003_slippery_ozymandias",
+      "breakpoints": true
     }
   ]
 }
